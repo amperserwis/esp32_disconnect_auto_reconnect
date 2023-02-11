@@ -5,8 +5,8 @@
 
 
 
-const char* ssid     = "OPPO F7 128GB";
-const char* password = "12345678";
+const char* ssid     = "Ur network";
+const char* password = "pass network";
 
 unsigned long previousMillis = 0;
 unsigned long interval = 5000;
