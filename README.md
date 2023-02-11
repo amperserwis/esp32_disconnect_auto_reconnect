@@ -1,6 +1,12 @@
 # esp32_disconnect_autoconnect
 This code helping people to make ESP32 autoconnect to network, when ESP32 suddenly disconnected
 
+# principle work of code
+When ESP32 suddenly disconnected from network, ESP32 try to re-connect into the same network.
+In this code, i using personal hotspot from smartphone to build network between ESP32 and browser
+so i can simulate the code by turning off hotspot.
+The code using 2 led to as output, and yap this featured inserted for testing ESP32's function
+
 # Status callback
 in Wifi section code, i using code for callback, here are translataion of status callback wifi esp32
 
