@@ -6,8 +6,8 @@
 #define led4    14
 
 
-const char* ssid     = "OPPO F7 128GB";
-const char* password = "12345678";
+const char* ssid     = "UR network";
+const char* password = "Pass network";
 
 unsigned long previousMillis = 0;
 unsigned long interval = 5000;
