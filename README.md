@@ -7,6 +7,8 @@ In this code, i using personal hotspot from smartphone to build network between 
 so i can simulate the code by turning off hotspot.
 The code using 2 led to as output, and yap this featured inserted for testing ESP32's function
 
+but, if last condition (before disconnected) is on "modeaa", 1 of LEDs is on
+
 # Status callback
 in Wifi section code, i using code for callback, here are translataion of status callback wifi esp32
 
